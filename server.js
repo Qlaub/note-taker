@@ -1,5 +1,5 @@
 const express = require('express');
-// const apiRoutes = require('./routes/apiRoutes/notes.js');
+const apiRoutes = require('./routes/apiRoutes/notes.js');
 const htmlRoutes = require('./routes/htmlRoutes');
 
 const PORT = process.env.PORT || 3001;
@@ -15,7 +15,7 @@ app.use(express.json());
 // make css and js files readily available
 app.use(express.static(__dirname + '/public'));
 
-// app.use('/api', apiRoutes);
+app.use('/api', apiRoutes);
 app.use('/', htmlRoutes);
 
 app.listen(PORT, () => {
