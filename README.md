@@ -14,5 +14,7 @@ Download the project folder from GitHub, navigate to the root directory of the p
 ## Usage
 To run this project on a local server: Once you have run 'npm install', navigate to the root directory of the project in your terminal (if you aren't there already), and run 'node server'. The application server should now be active on your local network. Navigate to http://127.0.0.1:3001/ in your browser to use the application. Click the 'Get Started' button to enter the page where notes can be written and saved. Add a new note by filling out the note title and note text, and then clicking the save icon in the upper right corner of the screen. Saved notes appear on the left side of the screen. To delete a note click the red trash can icon.
 
+https://user-images.githubusercontent.com/89796902/166167711-410aefd3-502a-4baf-956f-ee028c426dc7.mp4
+
 ## Questions
 Feel free to email me with any questions at e.pirazzi@gmail.com or take a look at my [GitHub](https://github.com/Qlaub)
