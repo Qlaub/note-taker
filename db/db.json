@@ -1,15 +1,7 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text"
-  },
-  {
-    "title": "test2",
-    "text": "test2"
-  },
-  {
-    "title": "Test3",
-    "text": "test3",
-    "id": "451dba13-97cb-4eef-8e26-2f4b523f4a8b"
+    "title": "Saved notes appear here!",
+    "text": "Notes need title text and note text before the save icon appears in the upper right corner of the screen",
+    "id": "e1625d2e-995f-4e22-ac54-831340a99c20"
   }
 ]
